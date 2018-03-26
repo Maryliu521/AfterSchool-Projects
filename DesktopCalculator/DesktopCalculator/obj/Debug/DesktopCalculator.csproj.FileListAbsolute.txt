@@ -1,0 +1,15 @@
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\bin\Debug\DesktopCalculator.exe.config
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\bin\Debug\DesktopCalculator.exe
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\bin\Debug\DesktopCalculator.pdb
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.csprojResolveAssemblyReference.cache
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\MainWindow.g.cs
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\App.g.cs
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator_MarkupCompile.cache
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator_MarkupCompile.lref
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\MainWindow.baml
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.g.resources
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.Properties.Resources.resources
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.csproj.GenerateResource.Cache
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.csproj.CoreCompileInputs.cache
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.exe
+c:\users\maryr\source\repos\DesktopCalculator\DesktopCalculator\obj\Debug\DesktopCalculator.pdb
