@@ -3,7 +3,7 @@ var colors =[];
 var pickedColor;
 var square = document.querySelectorAll(".square");
 var colorDisplay = document.getElementById("colorDisplay");
-colorDisplay.textContent = pickedColor.toUpperCase();
+colorDisplay.textContent = pickedColor;
 var message = document.querySelector("#message");
 var h1= document.querySelector("h1");
 var resetBtn = document.querySelector("#reset");
@@ -75,7 +75,7 @@ function reStart(){
 	colors = generateColor(numSquares);
     //pick a new color
 	pickedColor = pickColor();
-	colorDisplay.textContent = pickedColor.toUpperCase();
+	colorDisplay.textContent = pickedColor;
 	//looping through the new colors and change the squares
 	  for(i=0; i< square.length; i++){
 		if(colors[i]){

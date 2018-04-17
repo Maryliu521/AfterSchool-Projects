@@ -10,6 +10,7 @@ h1{
 	margin:0;
 	background-color:#3be820;
 	line-height:1.1;
+	Transition: uppercase;
 }
 #colorDisplay{
 	font-size:1.5em;
@@ -36,6 +37,7 @@ button{
 	font-family: 'Berkshire Swash', cursive;
 	transition: all 0.5s;
 	outline:none;
+	Transition: uppercase;
 }
 button:hover{
 	background-color:#3be820;
