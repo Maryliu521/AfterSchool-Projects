@@ -55,8 +55,8 @@ for(i=0; i < pName.length; i++){
 	 pPrice.splice(p,1);
 	 displayCart();
  }
- var completed = documet.querySelector("#summit");
- complete.addEventListener("click",function(){
+ var completed = document.querySelector("#summit");
+ completed.addEventListener("click",function(){
 	 alert("Your Order is completed!")
  })
 
