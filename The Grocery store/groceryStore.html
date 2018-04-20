@@ -54,14 +54,14 @@
 		     </form>
 			 <hr>
 			 <div id="info" arial-hidden = "true">
-			  <label>Name on the Card: </label><input type="text" name="name"></br>
-			  <label>Card Number: </label><input type="number" name="cardNumber"></br>
-			  <label>Expiration: </label><input type="month" name="expiration"><br>
-			  <label>CVV: </label><input type="number" name="cvv">
+			  <label>Name on the Card: </label><input class="nameOnTheCart" type="text" name="name"></br>
+			  <label>Card Number: </label><input class="cardNumber" type="number" name="cardNumber"></br>
+			  <label>Expiration: </label><input class="expiration" type="month" name="expiration"><br>
+			  <label>CVV: </label><input class="cvv" type="number" name="cvv">
 		    </div>
 		  <div class="modal-footer">
 			<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-			<button id= "summit" type="button" class="btn btn-primary summit">Summit</button>
+			<button id= "summit" type="button" class="btn btn-primary summit" onclick="completed()">Summit</button>
 		  </div>
 		 </div>
 		</div>

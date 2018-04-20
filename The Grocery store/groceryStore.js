@@ -1,3 +1,4 @@
+var cart={};
 var pName = [];
 var pMeasurement = [];
 var pQty = [];
@@ -14,6 +15,7 @@ function addItem(){
 	pMeasurement.push(measure.value);
 	pQty.push(quantity.value);
 	pPrice.push(price.value);
+	cart={pName,pMeasurement,pQty,pPrice};
 	displayCart();
 	product.value = "";
 	measure.value = "";
@@ -45,7 +47,7 @@ for(i=0; i < pName.length; i++){
  }
   function subtotalSort(){
     subTotal.sort();
-	displayCart();
+    displayCart();
  }
 
  function remItem(p){
@@ -55,9 +57,8 @@ for(i=0; i < pName.length; i++){
 	 pPrice.splice(p,1);
 	 displayCart();
  }
- var completed = document.querySelector("#summit");
- completed.addEventListener("click",function(){
+ function completed(){
 	 alert("Your Order is completed!")
- })
+ }
 
 
