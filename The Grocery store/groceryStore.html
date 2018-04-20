@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>The Grocery Store</title>
+   <script src = "groceryStore.js"type="text/javascript"></script>
+   <link href="groceryStore.css" rel="stylesheet" type="text/css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  
+   </head>
+<body>
+ <div id ="container">
+    <h1>The Grocery Store</h1>
+	<img class= "storeLogo" src="./images/groceryStore.jpg" width="100px" height="100px">
+	 <div id="productAttributes">
+		<label>Product Name:</label> 
+		  <input id="product" type="text">
+		    <hr>
+		     <label>Unit of Measure:</label>
+		       <input id="measure" type="measure">
+		      <hr>
+		       <label>Quantity:</label> 
+		       <input id="quantity" type="number" min="1" max="100">
+		      <hr>
+		     <label>Price:</label>
+	        <input id="price" type="number">
+		  <hr>
+		<button onclick = "addItem()">Add Item</button>
+	</div>
+  <div id="shoppingCart">
+    <p>Shopping Cart</p>
+ </div>
+ <div id="payment">
+	 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+	  Check out
+	</button>
+     <div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+	    <div class="modal-dialog" role="document">
+		  <div class="modal-content">
+		    <div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			    <h4 class="modal-title">Select Payment Method:</h4>
+		     </div>
+		   <div class="modal-body">
+			 <form action="">
+			   <input class = "method" type="radio" name="method" value="card">
+			     <img src ="./images/credit-card-logos.png" width="210px" height="100px"> 
+			       Credit/Debit Card
+				    </input>
+				    <br>
+			        <input class = "method" type="radio" name="method" value="PayPal">
+                  <img src ="./images/paypal.jpg" width="100px" height="100px">
+			     PayPal
+			   <br>
+		     </form>
+			 <hr>
+			 <div id="info" arial-hidden = "true">
+			  <label>Name on the Card: </label><input type="text" name="name"></br>
+			  <label>Card Number: </label><input type="number" name="cardNumber"></br>
+			  <label>Expiration: </label><input type="month" name="expiration"><br>
+			  <label>CVV: </label><input type="number" name="cvv">
+		    </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			<button id= "summit" type="button" class="btn btn-primary summit">Summit</button>
+		  </div>
+		 </div>
+		</div>
+	 </div>           
+ </div>    
+	
+</div>
+   <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+   integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+   crossorigin="anonymous"></script>
+</body>
+</html>

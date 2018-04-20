@@ -1,0 +1,50 @@
+#container{
+	text-align:center;
+	background:green;
+	border: 2px solid red;
+	max-width:50%;
+	margin:0 auto;
+	padding: 10px;
+}
+h1{
+	color:white;
+}
+.storeLogo{
+	border-radius:10px;
+}
+label{
+	color: blue;
+	font-weight: 600;
+}
+
+hr{
+	width:30%;
+	color:green;
+}
+#productAttributes{
+	padding:10px;
+}
+#shoppingCart{
+	background-color: yellow;
+    margin:0 auto;
+	text-align:center;
+}
+p{
+	font-color:black;
+	font-size: 25px;
+	font-weight:600;
+}
+table{
+    margin:0 auto;
+}
+table, th, td{
+	border:2px solid black;
+	text-align:center;
+	
+}
+#payment{
+	text-align:center;
+}
+.method{
+	float:left;
+}
