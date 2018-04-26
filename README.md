@@ -4,3 +4,4 @@
 - [Score Keeper](/Score%20Keeper): Understanding DOM and connecting HTML, CSS and JavaScript together build this project to allow user to keep the score or reset their score, even they can change the limit game times.
 - [Simple JavaScript TODOLIST](/Simple-toDoList-JS) Using JavaScript code.You can practice "ADD","LIST","DELETE","QUIT" into the toDoList.
 - [Fun RGB color Game](/RGB%20Guessing%20Game) This Project allows player to match RGB color with the display one, and player got to choose "Easy Mode" & "Hard Mode". 
+- [The sum of the first 100 prime numbers](/The%20sum%20of%20the%20first%20100%20prime%20numbers) Explaining what is Prime Numbers and how to sum up.
