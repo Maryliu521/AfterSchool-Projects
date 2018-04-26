@@ -1,0 +1,11 @@
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\obj\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.csprojResolveAssemblyReference.cache
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\obj\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\obj\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.AssemblyInfoInputs.cache
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\obj\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.AssemblyInfo.cs
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\bin\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.deps.json
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\bin\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.runtimeconfig.json
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\bin\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.runtimeconfig.dev.json
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\bin\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.dll
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\bin\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.pdb
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\obj\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.dll
+C:\Users\maryr\Desktop\AfterSchoolProjects\The sum of the first 100 prime numbers\The sum of the first 100 prime numbers\obj\Debug\netcoreapp2.0\The sum of the first 100 prime numbers.pdb
