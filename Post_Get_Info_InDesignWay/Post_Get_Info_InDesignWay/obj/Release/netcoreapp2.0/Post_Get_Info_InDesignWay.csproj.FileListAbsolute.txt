@@ -1,0 +1,11 @@
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\bin\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.deps.json
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\bin\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.runtimeconfig.json
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\bin\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.runtimeconfig.dev.json
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\bin\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.dll
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\bin\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.pdb
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\obj\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.csprojAssemblyReference.cache
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\obj\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.csproj.CoreCompileInputs.cache
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\obj\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.AssemblyInfoInputs.cache
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\obj\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.AssemblyInfo.cs
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\obj\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.dll
+C:\Users\mliu\source\repos\Post_Get_Info_InDesignWay\Post_Get_Info_InDesignWay\obj\Release\netcoreapp2.0\Post_Get_Info_InDesignWay.pdb

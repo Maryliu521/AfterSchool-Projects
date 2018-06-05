@@ -1,0 +1,17 @@
+{"expand":"plans",
+"link":
+      {"href":"http://pikuaudio.us:8085/rest/api/latest/plan","rel":"self"},
+"plans":
+      {"size":1,
+       "expand":"plan",
+       "start-index":0,
+       "max-result":1,
+       "plan":[{"shortName":"Plan 1",
+                 "shortKey":"PLAN1",
+                 "type":"chain",
+                 "enabled":true,
+                 "link":
+                       {"href":"http://pikuaudio.us:8085/rest/api/latest/plan/TPA-PLAN1","rel":"self"},
+                 "key":"TPA-PLAN1",
+                 "name":"Test Project A - Plan 1",
+                 "planKey":{"key":"TPA-PLAN1"}}]}}
